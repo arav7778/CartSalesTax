@@ -1,0 +1,8 @@
+Quantity,Product, Original Price,SalesTax,ImportDuty, Total Amt incl Tax
+1, book,12.49,0,0,12.49
+1, music cd,14.99,1.499,0,16.49
+1, chocolate bar,0.85,0,0,0.85
+Total Tax: 1.5
+Sales Tax: 1.5
+Import Duty: 0.0
+Total Amount Incl Tax: 29.83

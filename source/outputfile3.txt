@@ -1,0 +1,9 @@
+Quantity,Product, Original Price,SalesTax,ImportDuty, Total Amt incl Tax
+1, imported bottle of perfume,27.99,2.799,1.3995,32.19
+1, bottle of perfume,18.99,1.899,0,20.89
+1, packet of headache pills,9.75,0,0,9.75
+1, box of imported chocolates,11.25,0,0.5625,11.81
+Total Tax: 6.66
+Sales Tax: 4.7
+Import Duty: 1.96
+Total Amount Incl Tax: 74.64

@@ -1,0 +1,7 @@
+Quantity,Product, Original Price,SalesTax,ImportDuty, Total Amt incl Tax
+1, imported box of chocolates,10.0,0,0.5,10.5
+1, imported bottle of perfume,47.5,4.75,2.375,54.63
+Total Tax: 7.63
+Sales Tax: 4.75
+Import Duty: 2.88
+Total Amount Incl Tax: 65.13
